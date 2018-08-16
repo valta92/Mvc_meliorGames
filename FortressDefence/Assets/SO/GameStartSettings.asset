@@ -1,0 +1,319 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad963a9df976b44daa5a053908c6bf03, type: 3}
+  m_Name: GameStartSettings
+  m_EditorClassIdentifier: 
+  gameSettings:
+    waves:
+    - enemies:
+      - idName: bat
+        stats:
+          damage: 5
+          maxHealth: 30
+          moveSpeed: 6
+          attackRate: 2
+          gold: 15
+      - idName: bat
+        stats:
+          damage: 5
+          maxHealth: 30
+          moveSpeed: 6
+          attackRate: 2
+          gold: 15
+      - idName: bomber
+        stats:
+          damage: 8
+          maxHealth: 25
+          moveSpeed: 4
+          attackRate: 2
+          gold: 15
+      time: 2
+    - enemies:
+      - idName: bat
+        stats:
+          damage: 5
+          maxHealth: 30
+          moveSpeed: 6
+          attackRate: 2
+          gold: 15
+      - idName: onager
+        stats:
+          damage: 5
+          maxHealth: 45
+          moveSpeed: 2
+          attackRate: 2
+          gold: 15
+      - idName: bat
+        stats:
+          damage: 5
+          maxHealth: 30
+          moveSpeed: 6
+          attackRate: 2
+          gold: 15
+      - idName: onager
+        stats:
+          damage: 5
+          maxHealth: 30
+          moveSpeed: 6
+          attackRate: 2
+          gold: 15
+      - idName: bomber
+        stats:
+          damage: 5
+          maxHealth: 30
+          moveSpeed: 4
+          attackRate: 4
+          gold: 15
+      - idName: onager
+        stats:
+          damage: 5
+          maxHealth: 30
+          moveSpeed: 2
+          attackRate: 2
+          gold: 15
+      time: 2
+    - enemies:
+      - idName: bat
+        stats:
+          damage: 5
+          maxHealth: 30
+          moveSpeed: 6
+          attackRate: 2
+          gold: 15
+      - idName: bat
+        stats:
+          damage: 5
+          maxHealth: 30
+          moveSpeed: 6
+          attackRate: 2
+          gold: 15
+      - idName: bat
+        stats:
+          damage: 5
+          maxHealth: 30
+          moveSpeed: 6
+          attackRate: 2
+          gold: 15
+      - idName: bat
+        stats:
+          damage: 5
+          maxHealth: 30
+          moveSpeed: 6
+          attackRate: 2
+          gold: 15
+      - idName: bat
+        stats:
+          damage: 5
+          maxHealth: 30
+          moveSpeed: 6
+          attackRate: 2
+          gold: 15
+      - idName: bat
+        stats:
+          damage: 5
+          maxHealth: 30
+          moveSpeed: 6
+          attackRate: 2
+          gold: 15
+      - idName: bat
+        stats:
+          damage: 5
+          maxHealth: 30
+          moveSpeed: 6
+          attackRate: 2
+          gold: 15
+      - idName: bat
+        stats:
+          damage: 5
+          maxHealth: 30
+          moveSpeed: 6
+          attackRate: 2
+          gold: 15
+      - idName: bat
+        stats:
+          damage: 5
+          maxHealth: 30
+          moveSpeed: 6
+          attackRate: 2
+          gold: 15
+      - idName: bat
+        stats:
+          damage: 5
+          maxHealth: 30
+          moveSpeed: 6
+          attackRate: 2
+          gold: 15
+      time: 2
+    - enemies:
+      - idName: bat
+        stats:
+          damage: 5
+          maxHealth: 30
+          moveSpeed: 6
+          attackRate: 2
+          gold: 15
+      - idName: bat
+        stats:
+          damage: 5
+          maxHealth: 30
+          moveSpeed: 6
+          attackRate: 2
+          gold: 15
+      - idName: bat
+        stats:
+          damage: 5
+          maxHealth: 30
+          moveSpeed: 6
+          attackRate: 2
+          gold: 15
+      - idName: bat
+        stats:
+          damage: 5
+          maxHealth: 30
+          moveSpeed: 6
+          attackRate: 2
+          gold: 15
+      - idName: bat
+        stats:
+          damage: 5
+          maxHealth: 30
+          moveSpeed: 6
+          attackRate: 2
+          gold: 15
+      - idName: bat
+        stats:
+          damage: 5
+          maxHealth: 30
+          moveSpeed: 6
+          attackRate: 2
+          gold: 15
+      - idName: bat
+        stats:
+          damage: 5
+          maxHealth: 30
+          moveSpeed: 6
+          attackRate: 2
+          gold: 15
+      - idName: bat
+        stats:
+          damage: 5
+          maxHealth: 30
+          moveSpeed: 6
+          attackRate: 2
+          gold: 15
+      - idName: bat
+        stats:
+          damage: 5
+          maxHealth: 30
+          moveSpeed: 6
+          attackRate: 2
+          gold: 15
+      - idName: bat
+        stats:
+          damage: 5
+          maxHealth: 30
+          moveSpeed: 6
+          attackRate: 2
+          gold: 15
+      time: 2
+    - enemies:
+      - idName: bat
+        stats:
+          damage: 5
+          maxHealth: 30
+          moveSpeed: 6
+          attackRate: 2
+          gold: 15
+      - idName: bat
+        stats:
+          damage: 5
+          maxHealth: 30
+          moveSpeed: 6
+          attackRate: 2
+          gold: 15
+      - idName: bat
+        stats:
+          damage: 5
+          maxHealth: 30
+          moveSpeed: 6
+          attackRate: 2
+          gold: 15
+      - idName: bat
+        stats:
+          damage: 5
+          maxHealth: 30
+          moveSpeed: 6
+          attackRate: 2
+          gold: 15
+      - idName: bat
+        stats:
+          damage: 5
+          maxHealth: 30
+          moveSpeed: 6
+          attackRate: 2
+          gold: 15
+      - idName: bat
+        stats:
+          damage: 5
+          maxHealth: 30
+          moveSpeed: 6
+          attackRate: 2
+          gold: 15
+      - idName: bat
+        stats:
+          damage: 5
+          maxHealth: 30
+          moveSpeed: 6
+          attackRate: 2
+          gold: 15
+      - idName: bat
+        stats:
+          damage: 5
+          maxHealth: 30
+          moveSpeed: 6
+          attackRate: 2
+          gold: 15
+      - idName: bat
+        stats:
+          damage: 5
+          maxHealth: 30
+          moveSpeed: 6
+          attackRate: 2
+          gold: 15
+      - idName: bat
+        stats:
+          damage: 5
+          maxHealth: 30
+          moveSpeed: 6
+          attackRate: 2
+          gold: 15
+      time: 2
+    currentGold: 250
+    fortHealth: 100
+  fortSettings:
+    health: 100
+  prefabSettings:
+    batPrefab: {fileID: 1601853197423588, guid: 15b375657746d4b3eb2332d6c4e68f9f,
+      type: 2}
+    bomberPrefab: {fileID: 1489746235399554, guid: 366aed58bfa2847ca978f1b45cb7e9a8,
+      type: 2}
+    onagerPrefab: {fileID: 1829685996152966, guid: 675fee10af1f74734b9fd39294bdeee9,
+      type: 2}
+    arrowProjectile: {fileID: 1166216639550836, guid: 6d44755f4e8634c4fab2a9f8b304b672,
+      type: 2}
+    bombProjectile: {fileID: 1958986098053352, guid: 7cc7ed73fd85f44408429095264b4e2f,
+      type: 2}
+    archer1Prefab: {fileID: 1706338590789612, guid: 27ebac16ad4e94ad1af5b0cc8923b836,
+      type: 2}
+    archer2Prefab: {fileID: 1918516590322558, guid: b8c398b0d849e4b2a932cd95b9657fee,
+      type: 2}
+    archer3Prefab: {fileID: 1469473985840854, guid: 45cc4b8575d4046b58836f9fe5151131,
+      type: 2}
